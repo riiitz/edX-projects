@@ -1,0 +1,56 @@
+body {
+    background-color: #ffff99;
+}
+ 
+h1 {
+    color: #ff6600;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 3px solid #ff6600;
+    padding: 6px;
+}
+ 
+ 
+h2 {
+    color: #ffff99;
+    background-color: #ff6600;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 21px;
+    padding-bottom: 6px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+ 
+ol {
+    background-color: #ffcc00;
+}
+ 
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffff99;
+    padding: 6px;
+    font-weight: bold;
+}
+ 
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    border: 3px dotted #ffcc00;
+    padding: 9px;
+}
+
+p2 {
+    color: darkblue;
+    background-color: lightcyan;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: line-through;
+}
+/*Here are the color HEX code used above:
+
+light yellow: #ffff99
+medium yellow: #ffcc00
+orange: #ff6600
+Here are the fonts used above:
+
+Helvetica
+Impact
+Courier New*/
