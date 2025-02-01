@@ -1,0 +1,11 @@
+/*this is a rule to make the font green and fonty */
+p {
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: darkgreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
